@@ -1,0 +1,6 @@
+{
+  "name": "سفرنامه ایران",
+  "description": "نقشه تعاملی ایران و محاسبه‌گر دقیق مسافت، زمان و هزینه سوخت سفر بین شهرهای ایران",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
